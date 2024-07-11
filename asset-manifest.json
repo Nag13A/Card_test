@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Card_test/static/css/main.1a3cbc12.css",
+    "main.js": "/Card_test/static/js/main.eab9c6f0.js",
+    "static/media/TTFirsNeue-Medium.ttf": "/Card_test/static/media/TTFirsNeue-Medium.c40de9018ca2adfa67af.ttf",
+    "static/media/TTFirsNeue-Bold.ttf": "/Card_test/static/media/TTFirsNeue-Bold.0e5c24bc12f0df7821a9.ttf",
+    "static/media/TTFirsNeue-Regular.ttf": "/Card_test/static/media/TTFirsNeue-Regular.7925664aab1bc42bbc9b.ttf",
+    "static/media/sprite.svg": "/Card_test/static/media/sprite.ae96ba333470e7ebea772170ad0736e7.svg",
+    "index.html": "/Card_test/index.html",
+    "main.1a3cbc12.css.map": "/Card_test/static/css/main.1a3cbc12.css.map",
+    "main.eab9c6f0.js.map": "/Card_test/static/js/main.eab9c6f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a3cbc12.css",
+    "static/js/main.eab9c6f0.js"
+  ]
+}
