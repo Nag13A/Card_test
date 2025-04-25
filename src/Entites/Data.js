@@ -12,7 +12,7 @@ const Data = {
     address: "Университетская наб., 3, Санкт-Петербург, 199034",
     addressСoordinates: "59.94160876391441, 30.30481044251657",
     date: "12.11.1980",
-    rank: "Pohyi",
+    rank: "Global",
     images: [
       {
         id: 1,
